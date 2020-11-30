@@ -14,7 +14,7 @@ Unlike other build packs, I never compile anything.
 ## Usage
 
 Add the following to your `.buildpacks`:
-
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 ```
